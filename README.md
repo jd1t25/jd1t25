@@ -2,7 +2,6 @@
 - 👀 I’m interested in....computer stuff, duh!
 - 🌱 I’m currently learning....ricing (first time?, search 'Rice Arch Linux')
 - 💞️ I’m looking to collaborate on....epic journey,
-- 📫 How to reach me....don't, got COVID.
 - 🏨 Hotel?....Trivago
 
 - 📺 
