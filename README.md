@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @jd1t25
-- 👀 I’m interested in....computer stuff, duh!
-- 🌱 I’m currently learning....ricing (first time?, search 'Rice Arch Linux')
-- 💞️ I’m looking to collaborate on....epic journey,
+- 👀 Interested in....computer stuff, duh!
+- 🌱 Currently learning....ricing (first time?, search 'Rice Arch Linux')
+- 🤝 Looking to collaborate on....journey (𝘰𝘯𝘦 𝘥𝘰𝘦𝘴 𝘯𝘰𝘵 𝘴𝘪𝘮𝘱𝘭𝘺 𝘵𝘢𝘭𝘬 𝘢𝘣𝘰𝘶𝘵 mor...)
 - 🏨 Hotel?....Trivago
 
-- 📺 
-https://youtu.be/dQw4w9WgXcQ
+- 📺 (Make your Day)
+https://www.youtube.com/watch?v=Kk1hNGbEGRI
 
 <!---
 jd1t25/jd1t25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
