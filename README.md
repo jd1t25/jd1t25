@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jd1t25
 - 👀 Interested in....computer stuff, duh!
-- 🌱 Currently learning....ricing (first time?, search 'Rice Arch Linux')
+- 🌱 Currently learning....ricing (first time?, google 'Rice Arch Linux')
 - 🤝 Looking to collaborate on....journey (𝘰𝘯𝘦 𝘥𝘰𝘦𝘴 𝘯𝘰𝘵 𝘴𝘪𝘮𝘱𝘭𝘺 𝘵𝘢𝘭𝘬 𝘢𝘣𝘰𝘶𝘵 mor...)
 - 🏨 Hotel?....Trivago
 
