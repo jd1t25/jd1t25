@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jd1t25
-- 👀 Interested in....computer stuff, duh!
-- 🌱 Currently learning....ricing/linux
+- 🌱 Now learning....ricing/linux
+- 👨‍💻 Currently interested on how movies are created & also rated
 
 
 - 📺 Make your Day
