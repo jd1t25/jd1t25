@@ -3,8 +3,9 @@
 - 🌱 Currently learning....ricing/linux
 
 
-- 📺 (Make your Day)
+- 📺 Make your Day
 https://www.youtube.com/watch?v=Kk1hNGbEGRI
+(Not RickRoll, Source:Trust me)
 
 <br><br>
 
