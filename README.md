@@ -5,7 +5,7 @@
 
 - 📺 Make your Day
 https://www.youtube.com/watch?v=Kk1hNGbEGRI
-(Not RickRoll, Source:Trust me)
+(Not RickRoll)
 
 <br><br>
 
