@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @jd1t25
-- 🌱 Now learning....ricing/linux
-- 👨‍💻 Currently interested on how movies are created & also rated
+- 🌱 Now learning....NixOS
+- 👨‍💻 Currently interested on how movies are created & rated
+- 📖 Reading GEB(Gödel, Escher, Bach) by Douglas R. Hofstadter ( If anyone has exp in any of this field , I am open for discussion )  
 
 
 - 📺 Make your Day
