@@ -1,5 +1,5 @@
 I use NixOS BTW!  
-*... said an ex-Arch User casually.*
+*... said ex-Arch User casually.*
 
 
 
