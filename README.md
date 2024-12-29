@@ -1,7 +1,12 @@
-I use NixOS BTW!  
-*... said ex-Arch User casually.*
+Looking for something
 
+![](./assets/bumble-bee-sus.gif)
 
+Update: Back to Arch (...from NixOS)
+not gonna rebuild everytime i make mistake (still learning linux)
+
+<!--I use NixOS BTW!  -->
+<!--*... said ex-Arch User casually.*-->
 
 <!---  👋 Hi, I’m @jd1t25
 - 🌱 Now learning....NixOS
