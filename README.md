@@ -1,6 +1,8 @@
-Looking for something
+<p style="text-align:center; font-size:140%"> Looking for something </p>
 
+<p align="center">
 ![](./assets/bumble-bee-sus.gif)
+</p>
 
 Update: Back to Arch (...from NixOS)
 not gonna rebuild everytime i make mistake (still learning linux)
