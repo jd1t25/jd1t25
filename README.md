@@ -1,4 +1,6 @@
-<p style="text-align:center; font-size:140%"> Looking for something </p>
+<div align="center">
+  Looking for something
+</div>
 
 <p align="center">
 ![](./assets/bumble-bee-sus.gif)
