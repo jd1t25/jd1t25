@@ -1,7 +1,7 @@
-<h2 align="center">Material Bread</h2>
+<h2 align="center">Looking for something</h2>
 
 
-<img src="./assets/bumble-bee-sus.gif"/>
+<img align="middle" src="./assets/bumble-bee-sus.gif"/>
 
 Update: Back to Arch (...from NixOS)
 not gonna rebuild everytime i make mistake (still learning linux)
