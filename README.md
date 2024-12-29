@@ -1,7 +1,8 @@
 <h2 align="center">Looking for something</h2>
 
-
+<p align="center">
 <img align="center" src="./assets/bumble-bee-sus.gif"/>
+</p>
 
 Update: Back to Arch (...from NixOS)
 not gonna rebuild everytime i make mistake (still learning linux)
