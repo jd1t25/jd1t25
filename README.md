@@ -1,10 +1,7 @@
-<div align="center">
-  ##Looking for something
-</div>
+<h2 align="center">Material Bread</h2>
 
-<p align="center">
-![](./assets/bumble-bee-sus.gif)
-</p>
+
+<img src="./assets/bumble-bee-sus.gif"/>
 
 Update: Back to Arch (...from NixOS)
 not gonna rebuild everytime i make mistake (still learning linux)
