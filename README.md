@@ -10,7 +10,7 @@
 
 
 
-Update: Back to Arch (...from NixOS) 🗿
+Update: Back to Arch (...from NixOS) 
 
 
 <!--I use NixOS BTW!  -->
