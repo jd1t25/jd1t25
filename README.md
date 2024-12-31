@@ -10,8 +10,8 @@
 
 
 
-Update: Back to Arch (...from NixOS)
-not gonna rebuild everytime i make mistake (still learning linux)
+Update: Back to Arch (...from NixOS) 🗿
+
 
 <!--I use NixOS BTW!  -->
 <!--*... said ex-Arch User casually.*-->
