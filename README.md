@@ -16,7 +16,7 @@
 <!--I use NixOS BTW!  -->
 <!--*... said ex-Arch User casually.*-->
 
-Hi, I’m @jd1t25
+Hi, I’m Mayuresh, student @COEP
 - 🌱 Now learning....NixOS
 - 👨‍💻 Currently interested on how movies are created & rated
 - 📖 Reading GEB(Gödel, Escher, Bach) by Douglas R. Hofstadter ( If anyone has exp in any of this field , I am open for discussion )  
